@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiples3and5", "Multiples
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestPrimeFactor", "LargestPrimeFactor\LargestPrimeFactor.csproj", "{E4DB5576-D1A4-481B-B446-BA0FAC8828EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPalindrome", "LargestPalindrome\LargestPalindrome.csproj", "{F45879F7-9D0B-4450-A9B6-CA45FE93D1E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestPalindrome", "LargestPalindrome\LargestPalindrome.csproj", "{F45879F7-9D0B-4450-A9B6-CA45FE93D1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestMultiple", "SmallestMultiple\SmallestMultiple.csproj", "{1F63E205-694A-46BB-8B8B-A4FAEB7E6F0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F45879F7-9D0B-4450-A9B6-CA45FE93D1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F45879F7-9D0B-4450-A9B6-CA45FE93D1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F45879F7-9D0B-4450-A9B6-CA45FE93D1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F63E205-694A-46BB-8B8B-A4FAEB7E6F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F63E205-694A-46BB-8B8B-A4FAEB7E6F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F63E205-694A-46BB-8B8B-A4FAEB7E6F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F63E205-694A-46BB-8B8B-A4FAEB7E6F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
