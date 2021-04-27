@@ -9,3 +9,4 @@ Boş zamanlarımda yaptığım küçük çalışmalar
 **6)**  *Sum Square Difference =>(Problem No:6)[ProjectEuler - Example Link](https://projecteuler.net/problem=6) 1 ile 100 arasındaki sayıların toplamının karesi ile kareleri toplamının farkını bulan uygulama* <br/>
 **7)**  *10001st Prime =>(Problem No:7)[ProjectEuler - Example Link](https://projecteuler.net/problem=7) Kullacının girdiği sayıya kadar olan asal sayıları listeleyen uygulama* <br/>
 **8)**  *Special Pythagorean Triplet =>(Problem No:9)[ProjectEuler - Example Link](https://projecteuler.net/problem=9) Pisagor üçlüleri (a^2 + b^2 = c^2) olan sayıları bulan uygulama* <br/>
+**9)**  *Summation Of Primes =>(Problem No:10)[ProjectEuler - Example Link](https://projecteuler.net/problem=10) Asal sayıları listeler ve toplamlarını ekrana yazar* <br/>
