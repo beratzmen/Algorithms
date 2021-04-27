@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestPalindrome", "Larges
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmallestMultiple", "SmallestMultiple\SmallestMultiple.csproj", "{1F63E205-694A-46BB-8B8B-A4FAEB7E6F0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSquareDifference", "SumSquareDifference\SumSquareDifference.csproj", "{DE83CB2E-732B-4983-9FE9-317A4E0979E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumSquareDifference", "SumSquareDifference\SumSquareDifference.csproj", "{DE83CB2E-732B-4983-9FE9-317A4E0979E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10001StPrime", "10001StPrime\10001StPrime.csproj", "{53E70186-18F8-49BB-B0F3-CB6A6124D65A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10001StPrime", "10001StPrime\10001StPrime.csproj", "{53E70186-18F8-49BB-B0F3-CB6A6124D65A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPythagoreanTriplet", "SpecialPythagoreanTriplet\SpecialPythagoreanTriplet.csproj", "{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{53E70186-18F8-49BB-B0F3-CB6A6124D65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53E70186-18F8-49BB-B0F3-CB6A6124D65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53E70186-18F8-49BB-B0F3-CB6A6124D65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
