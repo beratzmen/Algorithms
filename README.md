@@ -8,3 +8,4 @@ Boş zamanlarımda yaptığım küçük çalışmalar
 **5)**  *Smallest Multiple =>(Problem No:5)[ProjectEuler - Example Link](https://projecteuler.net/problem=5) 1 ile 20 arasındaki tüm sayılara bölünebilen en küçük pozitif tam sayıyı bulan uygulama(LCM - Least Common Multiple)* <br/>
 **6)**  *Sum Square Difference =>(Problem No:6)[ProjectEuler - Example Link](https://projecteuler.net/problem=6) 1 ile 100 arasındaki sayıların toplamının karesi ile kareleri toplamının farkını bulan uygulama* <br/>
 **7)**  *10001st Prime =>(Problem No:7)[ProjectEuler - Example Link](https://projecteuler.net/problem=7) Kullacının girdiği sayıya kadar olan asal sayıları listeleyen uygulama* <br/>
+**8)**  *Special Pythagorean Triplet =>(Problem No:9)[ProjectEuler - Example Link](https://projecteuler.net/problem=9) Pisagor üçlüleri (a^2 + b^2 = c^2) olan sayıları bulan uygulama* <br/>
