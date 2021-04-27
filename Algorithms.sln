@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumSquareDifference", "SumS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10001StPrime", "10001StPrime\10001StPrime.csproj", "{53E70186-18F8-49BB-B0F3-CB6A6124D65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPythagoreanTriplet", "SpecialPythagoreanTriplet\SpecialPythagoreanTriplet.csproj", "{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecialPythagoreanTriplet", "SpecialPythagoreanTriplet\SpecialPythagoreanTriplet.csproj", "{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummationOfPrimes", "SummationOfPrimes\SummationOfPrimes.csproj", "{E8C708F9-1155-4ABD-BC1F-F9CA24414D55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8712BF6-0798-498E-86AC-CD8DA5FD9CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C708F9-1155-4ABD-BC1F-F9CA24414D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C708F9-1155-4ABD-BC1F-F9CA24414D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C708F9-1155-4ABD-BC1F-F9CA24414D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C708F9-1155-4ABD-BC1F-F9CA24414D55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
