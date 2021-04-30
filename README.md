@@ -11,3 +11,4 @@ Boş zamanlarımda yaptığım küçük çalışmalar
 **8) Special Pythagorean Triplet** =>(Problem No:9)[ProjectEuler - Example Link](https://projecteuler.net/problem=9) *Pisagor üçlüleri (a^2 + b^2 = c^2) olan sayıları bulan uygulama* <br/>
 **9) Summation Of Primes** =>(Problem No:10)[ProjectEuler - Example Link](https://projecteuler.net/problem=10) *Asal sayıları listeler ve toplamlarını ekrana yazar* <br/>
 **10) Largest Product in A Grid** =>(Problem No:11)[ProjectEuler - Example Link](https://projecteuler.net/problem=11) *20 X 20 matris üzerindeki sayılardan, çarpımları en büyük olan sayıyı bulan uygulama(sağ,sol, sağ alt çapraz ve sağ üst çapraz olarak) x ve y olarak indis'i de ekrana yazdırmaktadır* <br/>
+**11) Highly Divisible Triangular Number** =>(Problem No:12)[ProjectEuler - Example Link](https://projecteuler.net/problem=12) *Üçgensel sayıları bulan ve bu sayıların çarpanlarını listeleyen uygulama* <br/>
